@@ -8,21 +8,28 @@
 <body>
 <h2>Entities and Attributes</h2>
 	<h3>User</h3>
-		<li>Username</li>
-		<li>User Email</li>
-		<li>User Gardening Level</li>
-		<li>User Payment</li>
-		<li>User Address</li>
+		<li>userName</li>
+		<li>userEmail</li>
+		<li>userGardeningLevel</li>
+		<li>userPayment</li>
+		<li>userAddress</li>
 	<h3>Products</h3>
-		<li>Product Color</li>
-		<li>Product Price</li>
-		<li>Product Name</li>
-		<li>Product Description</li>
-		<li>Product Specs</li>
-		<li>Product Details</li>
+		<li>productColor</li>
+		<li>productPrice</li>
+		<li>productName</li>
+		<li>productDescription</li>
+		<li>productSpecs</li>
+		<li>productDetails</li>
+	<h3>Shopping Cart</h3>
+		<li>shoppingCartItems</li>
+		<li>userPaymentMethod</li>
+
 <h2>Relationships</h2>
 	<li>1 user can buy or look at many products. (1-n)</li>
 	<li>Many products can be bought by many users. (m-n)</li>
+	<li>Only one user per shopping cart. (1-n)</li>
+	<li>Shopping cart can have multiple products. (m-n)</li>
+	<li>Multiple users can have only have one shopping cart. (1-n)</li>
 </div>
 </body>
 </html>
