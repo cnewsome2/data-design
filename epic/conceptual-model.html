@@ -20,16 +20,18 @@
 		<li>productDescription</li>
 		<li>productSpecs</li>
 		<li>productDetails</li>
-	<h3>Shopping Cart</h3>
-		<li>shoppingCartItems</li>
-		<li>userPaymentMethod</li>
+	<h3>Order</h3>
+		<li>orderNumber</li>
+		<li>userId</li>
+		<li>userName</li>
+		<li>userAddress</li>
+		<li>orderShippingDate</li>
 
 <h2>Relationships</h2>
-	<li>1 user can buy or look at many products. (1-n)</li>
-	<li>Many products can be bought by many users. (m-n)</li>
-	<li>Only one user per shopping cart. (1-n)</li>
-	<li>Shopping cart can have multiple products. (m-n)</li>
-	<li>Multiple users can have only have one shopping cart. (1-n)</li>
+	<li>1 user can have many orders. (1-m)</li>
+	<li>Orders with specific user Id's can only have one user.</li>
+	<li>Orders can contain multiple products. (m-n)</li>
+	<li>Products can be contained within multiple different orders. (m-n)</li>
 </div>
 </body>
 </html>
