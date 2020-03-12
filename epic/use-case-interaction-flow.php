@@ -32,6 +32,7 @@
 		<li>Peggy will then choose to pay with card.</li>
 		<li>A new page will open with empty blocks to input customer detail info. (Ex: Name, email, phone, etc.)</li>
 		<li>Finally Peggy will input her personal information and click "Submit Payment."</li>
+		<li>Peggy will then receive a conformation email with her receipt of purchase and shipping information</li>
 </div>
 </body>
 </html>
