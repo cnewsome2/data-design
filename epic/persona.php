@@ -3,13 +3,13 @@
 <head>
 	<meta charset="utf-8"/>
 	<title>persona</title>
-	<img src="womangardening.jpg" alt="Peggy Gardening" id="Peggy Gardening">
 </head>
 <body>
+<img src="womangardening.jpg" alt="Peggy-Gardening" id="Peggy-Gardening">
 <h1>Persona</h1>
 <h3>gardeners.com</h3>
-<div>
-<li>Name: Peggy</li>
+<ul>
+	<li>Name: Peggy</li>
 	<li>Age: 65</li>
 	<li>Technology: Peggy uses a Dell desktop computer that runs Windows 10. She also uses an iphone 10. </li>
 	<li>Profession: Retired a few months ago after a successful career, and now wants to take up gardening.</li>
@@ -18,7 +18,6 @@
 	<li>Wants to be able to buy gardening equipment quickly and easily online.</li>
 	<li>Enjoys organically raised fruits and vegetables. Tomatoes are her favorite.</li>
 	<li>She really values other opinions on a product so having a lot of reviews are important.</li>
-
-</div>
+</ul>
 </body>
 </html>

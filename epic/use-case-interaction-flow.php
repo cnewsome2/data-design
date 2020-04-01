@@ -6,15 +6,16 @@
 </head>
 <body>
 <h1>Use Case/Interaction Flow</h1>
-<div>
-	<h3>Use Case</h3>
-	<p1>On a warm summer day Peggy is working in her garden. She has immense excitement about growing her own organic vegetables.
+
+<h3>Use Case</h3>
+	On a warm summer day Peggy is working in her garden. She has immense excitement about growing her own organic vegetables.
 	She looks up and realizes that she does not have the vegetables that she wants for her garden. She remembered one of her friends
 	telling her about this great website that she can use to buy organic vegetable seeds. She takes off her gardening gloves, goes in
-	her home and gets on her Dell desktop computer that runs Windows 10, clicks on Internet Explorer and types in Gardeners.com and presses "Enter.".</p1>
-		<p2>Peggy then begins the interaction flow. After all the steps listed below are complete she goes outside
-	and begins to plant other seeds that she has on hand. Peggy goes on this site once a month now to order different seeds and equipment. </p2>
-	<h3>Interaction Flow</h3>
+	her home and gets on her Dell desktop computer that runs Windows 10, clicks on Internet Explorer and types in Gardeners.com and presses "Enter.".
+	Peggy then begins the interaction flow. After all the steps listed below are complete she goes outside
+	and begins to plant other seeds that she has on hand. Peggy goes on this site once a month now to order different seeds and equipment.
+<h3>Interaction Flow</h3>
+	<ul>
 		<li>First Peggy will click on the "Garden Supplies" section.</li>
 		<li>A new page will open with large icons that she can select from.</li>
 		<li>Next she will click on the "Seeds and Plants" section. </li>
@@ -33,6 +34,6 @@
 		<li>A new page will open with empty blocks to input customer detail info. (Ex: Name, email, phone, etc.)</li>
 		<li>Finally Peggy will input her personal information and click "Submit Payment."</li>
 		<li>Peggy will then receive a conformation email with her receipt of purchase and shipping information</li>
-</div>
+	</ul>
 </body>
 </html>
