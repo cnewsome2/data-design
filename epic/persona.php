@@ -12,7 +12,6 @@
 <li>Name: Peggy</li>
 	<li>Age: 65</li>
 	<li>Technology: Peggy uses a Dell desktop computer that runs Windows 10. She also uses an iphone 10. </li>
-	<li></li>
 	<li>Profession: Retired a few months ago after a successful career, and now wants to take up gardening.</li>
 	<li>Uses a computer from time to time, but is not an expert and she prefers an easy layout to navigate.</li>
 	<li>Her eyes have gotten a little worse with age. Large icons would be a benefit.</li>
